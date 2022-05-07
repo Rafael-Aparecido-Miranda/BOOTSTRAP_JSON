@@ -1,0 +1,59 @@
+.col-md-4{
+    margin-top: 10px
+}
+
+.modal-dialog {
+    max-width: 75%;
+    margin: 1.75rem auto;
+}
+
+body{
+    background: black;
+    margin-top: 10px
+}
+#sessao{
+    margin: 0;
+    margin-top: 0;
+}
+.menu{
+    float:top;
+}
+.d-flex{
+    background-color: rgba(1, 167, 90, 0.719);
+    border-radius: 10px;
+    box-shadow:inset 0 0 1em #fff;
+
+}
+#home{
+    color: white;
+    background-color: rgba(132, 0, 184, 0.856); 
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+}
+#store{
+    color: white;
+    background-color: rgba(132, 0, 184, 0.856); 
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+}
+#cart{
+    color: white;
+    background-color: rgba(132, 0, 184, 0.856); 
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    
+}
+#legendaBotao{
+    display: flex; /*ALINHA O NOME DO BOTAO ABAIXO DA IMAGEM*/
+    font-size: small;
+}
+/*.logo :hover{
+
+    background-image: url("https://cdn-icons-png.flaticon.com/512/4155/4155659.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+}*/

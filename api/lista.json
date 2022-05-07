@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "nome": "Orcbolg",
+	"imagem": "https://cf.shopee.com.br/file/4e9c3344b08b254aea05d0100c5665f7",
+        "descricao": " Goblin Slayer (ゴブリンスレイヤー, Goburin Sureiyā ) é o personagem principal da série. Ele é um aventureiro experiente de classificação prata que se preocupa principalmente com a caça de goblins ."     
+    },
+    {
+        "id": "2",
+        "nome": "EVA-01",
+	"imagem": "https://m.media-amazon.com/images/I/71f7Wy3lnNL._AC_SY450_.jpg",
+        "descricao": "A Unidade Evangelion 01 (エヴァンゲリオン初号機, Evangerion Shogouki) (também conhecida como Unidade 01, Unidade Eva/EVA 01 ou simplesmente Eva/EVA 01) é o principal mecha da saga Evangelion. É pilotado pelo protagonista da série, Shinji Ikari."     
+    },
+    {
+        "id": "3",
+        "nome": "Tanjiro",
+       	"imagem": "https://portalretro.com.br/wp-content/uploads/2020/12/Hc8ea03abf0ec4b19951ec9831587d418H.jpg",
+	 "descricao": "Tanjiro Kamado (竈門かまど 炭たん治じ郎ろう Kamado Tanjirō?)Ele é um Caçador de Oni do Esquadrão de Caçadores de Onis, que se juntou para encontrar um remédio para transformar sua imã, Nezuko Kamado, que foi transformada em um Oni, de volta em um humano.Antes de se tornar um Caçador de Oni, sua família foi massacrada pelo Rei dos Onis, Muzan Kibutsuji, enquanto sua imã mais nova, Nezuko, foi transformada em uma Oni."     
+    }
+]
