@@ -16,5 +16,41 @@
         "nome": "Tanjiro",
        	"imagem": "https://portalretro.com.br/wp-content/uploads/2020/12/Hc8ea03abf0ec4b19951ec9831587d418H.jpg",
 	 "descricao": "Tanjiro Kamado (竈門かまど 炭たん治じ郎ろう Kamado Tanjirō?)Ele é um Caçador de Oni do Esquadrão de Caçadores de Onis, que se juntou para encontrar um remédio para transformar sua imã, Nezuko Kamado, que foi transformada em um Oni, de volta em um humano.Antes de se tornar um Caçador de Oni, sua família foi massacrada pelo Rei dos Onis, Muzan Kibutsuji, enquanto sua imã mais nova, Nezuko, foi transformada em uma Oni."     
+    },
+    {
+        "id": "4",
+        "nome": "Izuku Midoriya",
+	"imagem": "https://cdn.awsli.com.br/800x800/1901/1901889/produto/108387430b4fc2cbbfc.jpg",
+        "descricao": " Izuku Midoriya (緑みどり谷や出いず久く Midoriya Izuku ? ), também conhecido comoDeku(デクDeku ? ) , é o principal protagonista damangáeanimeMy Hero nAcademia . Mesmo que Izuku tenha nascido Quirkless , ele consegue chamar a atenção do lendário herói All Might , devido ao seu heroísmo inato e um forte senso de justiça, e desde então se tornou seu aluno próximo, bem como um aluno da Classe 1-A. na Escola Secundária da UA . All Might passou sua individualidade transferível para Izuku , tornando-o o nono detentor do One For All ."
+    },
+    {
+        "id": "5",
+        "nome": "Nagato Pain",
+	"imagem": "https://cdn.shopify.com/s/files/1/0551/8494/9410/products/product-image-1705007633_800x.jpg?v=1631224884",
+        "descricao": "Nagato (長門, Nagato) foi um órfão de Amegakure e um aluno de Jiraiya, que cresceu durante a Segunda Guerra Mundial Shinobi. Órfão pelo conflito, Nagato se uniu juntamente com seus companheiros órfãos de guerra para formar a Akatsuki, uma organização cujos objetivos foram parar os ciclos infinitos de morte. Depois de seu amigo e líder, Yahiko, ser morto por pregar a paz, Nagato se convenceu de que o mundo nunca iria parar de lutar voluntariamente a menos que ele conheça o que é a verdadeira dor. Ele adotou o pseudônimo de Pain (ペイン, Pein) e foi o novo líder da Akatsuki na tentativa de mudar o mundo a um estado de paz através do medo da destruição pelas mãos da Akatsuki."     
+    },
+    {
+        "id": "6",
+        "nome": "Tanjiro",
+       	"imagem": "https://a-static.mlcdn.com.br/618x463/action-figure-captain-tsubasa-misaki-ref-86682-bandai-banpresto/preech/4845p/3508676a6b8d3b2c96eeb8530f12f2e5.jpg",
+	 "descricao": "Tsubasa é o craque e pivô do Japão, ele veste a camisa 10 do Japão.Durante seu crescimento como jogador de futebol , Tsubasa jogou como atacante no arco Kids' Dream , onde obteve os prêmios de MVP e artilheiro do referido torneio. Graças à sua ajuda, Nankatsu cresceu e se tornou um clube de futebol popular."     
+    },
+    {
+        "id": "7",
+        "nome": "Ace Punhos de Fogo",
+       	"imagem": "https://http2.mlstatic.com/D_NQ_NP_790275-MLB32645568899_102019-O.jpg",
+	 "descricao": "Portgas D. Ace, nascido como Gol D. Ace e apelidado de Ace Punhos de Fogo, foi o irmão mais velho adotivo de Luffy e Sabo, e filho do falecido Rei dos Piratas, Gol D. Roger e sua amante, Portgas D. Rouge."     
+    },
+    {
+        "id":"8",
+        "nome":"Omegamon",
+        "imagem":"https://www.gundam.my/images/sell_products/interactive/6719/6.jpg",
+        "descricao":"Um Digimon Cavaleiro Sagrado membro dos Royal Knights que surgiu quando os Virus Busters WarGreymon e MetalGarurumon se fundiram, graças às vontades poderosas de todos os que desejavam a paz. Por possuir as qualidades especiais combinadas desses dois Digimons, é um guerreiro multi-tipo que consegue demonstrar plenamente essas habilidades em qualquer situação."
+    },
+    {
+        "id":"9",
+        "nome":"Levi Ackerman",
+        "imagem":"https://images.yampi.io/unsafe/fit-in/700x700/filters:background_color(white):upscale()/https://images.yampi.me/assets/stores/zengeek/uploads/images/figma-levi-60e75bff61b86-large.png",
+        "descricao":"Levi Ackerman  (リヴァイ·アッカーマン Rivai Akkāman  ), muitas vezes formalmente referido como Capitão Levi  (リヴァイ兵長 Rivai Heichō  ), é o capitão do esquadrão (兵士長 Heishichō , lit. líder dos soldados) do Esquadrão de Operações Especiais dentro do Survey Corps e é amplamente conhecido como o soldado mais forte da humanidade."
     }
 ]
