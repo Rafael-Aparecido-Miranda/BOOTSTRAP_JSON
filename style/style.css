@@ -50,10 +50,10 @@ body{
     display: flex; /*ALINHA O NOME DO BOTAO ABAIXO DA IMAGEM*/
     font-size: small;
 }
-/*.logo :hover{
-
-    background-image: url("https://cdn-icons-png.flaticon.com/512/4155/4155659.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size:contain;
-}*/
+.img2{
+    opacity: 1;
+    position: absolute;
+}
+.logo :hover{
+   opacity: 0;
+}
