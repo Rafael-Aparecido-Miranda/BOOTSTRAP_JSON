@@ -1,0 +1,31 @@
+[{
+    "id":1,
+    "nome":"bersek",
+    "imagem":"https://images-na.ssl-images-amazon.com/images/I/A1KdivdH+sL.jpg",
+    "autor":"Kentaro Miura",
+    "descricao":"Guts é um ex-mercenário espadachim que era comandante da Tropa de Assalto e agora vive, em uma espécie de terra alternativa e com traços medievais, para caçar demônios Apóstolos, aqueles que já foram humanos um dia, mas por causa de um pacto tomaram outra forma. "
+
+    
+},
+{
+    "id":2,
+    "nome":"the beginning after the end",
+    "imagem":"https://m.media-amazon.com/images/I/51G93y3KZrL.jpg",
+    "autor":"Brandon Lee (Turtle Me)",
+    "descricao":"O rei Grey tem força, riqueza e prestígio incomparáveis ​​em um mundo governado pela habilidade marcial. No entanto, a solidão permanece bem atrás daqueles com grande poder. Sob o exterior glamoroso de um rei poderoso espreita a concha do homem, desprovida de propósito e vontade."
+},
+{
+    "id":3,
+    "nome":"tales of demon and gods",
+    "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_558HqlpJr3QzHpeV0D7WD5FcHbB3gCDGJ0VvsNkIfKvsoYM21CZNsqK0Mq4m0NR8EYg&usqp=CAU",
+    "autor":"Mad snail",
+    "descricao":"Nie Li, o mais forte Espiritualista de Demônios em sua vida passada, estava de pé no pináculo do mundo marcial. No entanto, ele perdeu sua vida durante a batalha contra o Sábio Imperador e mais seis Bestas rank Divino. Sua alma, então voltou no tempo, para quando ele ainda tinha apenas 13 anos. Embora ele fosse o mais fraco em sua classe, com o pior talento, e tivesse apenas um Reino da Alma Vermelho, com o auxílio do vasto conhecimento que tinha acumulado em sua vida anterior, ele deve treinar mais rápido que qualquer um."
+},
+{
+    "id":3,
+    "nome":"ajin",
+    "imagem":"https://images-na.ssl-images-amazon.com/images/I/91axwTfNV-L.jpg",
+    "autor":"Hiroshi Seko",
+    "descricao":" Kei Nagai (Takeru Satô) começa na carreira médica para salvar sua irmã doente. Um dia, ele morre em um acidente, mas volta à vida imediatamente. Ele descobre que é um Ajin, um ser semi-humano, ele é procurado pelo governo e precisa fugir por causa de seus poderes."
+}
+]

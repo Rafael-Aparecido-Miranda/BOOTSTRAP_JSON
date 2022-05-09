@@ -12,9 +12,7 @@ function pegaDados(){
         dataType: "html" 
     })
 }
-function teste(dados1){
-    return 
-}
+
 function tratarDados(dados){
     dados = JSON.parse(dados) // CONVERTE DADOS JSON
 
@@ -42,7 +40,6 @@ function tratarDados(dados){
     lista.append(conteudo); //! perguntar para o professor
     })
 }
-
 function abrirModal(imagem,nome,descricao){
     console.log(nome)
     let conteudo = `
